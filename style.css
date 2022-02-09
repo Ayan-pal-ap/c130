@@ -1,0 +1,30 @@
+body{
+    background-size: cover;
+}
+.head{
+    font-size: 30px;
+    width: 100%;
+  margin: 0%;  
+}
+.noteing{
+    font-size:medium ;
+    color: darkviolet;
+}
+.div_speed{
+    float: left;
+
+}
+.div_v{
+    float:right;
+}
+.img{
+    width: 180px;
+    border-radius: 90px;
+}
+#play{
+    margin-top: 20px;
+}
+canvas{
+    border-radius: 20px;
+    border:dotted , ivory, 2px;
+}
